@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:testproject2/page/listOfRequest.dart';
-import 'package:testproject2/page/listOfSpot.dart';
-import 'package:testproject2/page/login.dart';
+import 'package:mobile_project/page/listOfRequest.dart';
+import 'package:mobile_project/page/listOfSpot.dart';
+import 'package:mobile_project/page/login.dart';
 
 class NavBar extends StatelessWidget {
   @override

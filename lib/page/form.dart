@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:testproject2/page/home.dart';
-import 'package:testproject2/page/listOfSpot.dart';
+import 'package:mobile_project/page/home.dart';
+import 'package:mobile_project/page/listOfSpot.dart';
 
 class MyForm extends StatefulWidget {
   const MyForm({super.key});

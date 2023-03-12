@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:testproject2/page/home.dart';
-import 'package:testproject2/page/register.dart';
+import 'package:mobile_project/page/home.dart';
+import 'package:mobile_project/page/register.dart';
 
 class MyLogin extends StatefulWidget {
   const MyLogin({Key? key}) : super(key: key);

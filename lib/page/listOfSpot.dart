@@ -4,7 +4,7 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_database/ui/firebase_animated_list.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:testproject2/page/components/Navbar.dart';
+import 'package:mobile_project/page/components/Navbar.dart';
 
 class MyList extends StatefulWidget {
   const MyList({super.key});
